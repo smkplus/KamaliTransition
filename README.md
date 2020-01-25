@@ -38,7 +38,7 @@ References:
 
 [unity forum](https://forum.unity.com/threads/stencil-op-comparison-values.362425/) & [khronos](https://www.khronos.org/registry/vulkan/specs/1.1-extensions/man/html/VkStencilOp.html)
 
-I explained more about UI [stencil Buffer here](https://gamedev.stackexchange.com/questions/158128/how-to-write-a-transparent-shader-for-a-sprite-that-ignores-transparent-sprites/158132#158132)
+I explained more about [UI stencil Buffer here](https://gamedev.stackexchange.com/questions/158128/how-to-write-a-transparent-shader-for-a-sprite-that-ignores-transparent-sprites/158132#158132)
 
 
 # Adding Enum to Inspector
