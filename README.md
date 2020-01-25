@@ -58,6 +58,7 @@ ____________________
 
 ![image](https://user-images.githubusercontent.com/16706911/73126731-64300100-3fcb-11ea-8f6a-323ee4883756.png)
 
+# Masking TextMeshpro
 I explained here how to mask [Textmesh pro](https://gamedev.stackexchange.com/questions/176170/how-to-use-a-sprite-mask-or-shader-to-mask-a-text
 )
 
