@@ -58,9 +58,8 @@ ____________________
 
 ![image](https://user-images.githubusercontent.com/16706911/73126731-64300100-3fcb-11ea-8f6a-323ee4883756.png)
 
-for text mesh pro use this:
-I explained how to make texts
-https://gamedev.stackexchange.com/questions/176170/how-to-use-a-sprite-mask-or-shader-to-mask-a-text
+I explained here how to mask [Textmesh pro](https://gamedev.stackexchange.com/questions/176170/how-to-use-a-sprite-mask-or-shader-to-mask-a-text
+)
 
 ![image](https://user-images.githubusercontent.com/16706911/73126746-a2c5bb80-3fcb-11ea-919f-f5566a7c8302.png)
 
